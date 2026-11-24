@@ -34,9 +34,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-   test:
-      runs-on: ubuuntu-latest
-
-      steps:
-      - name: test the code
-        run: echo The code is tested
+ 
